@@ -14,7 +14,6 @@ Download [d3-countries-scatter.zip](d3-countries-scatter.zip) and open up the zi
 
 Use `File > Open Folder` to open the folder that contains all of the files. You should see five files:
 
-|---|---|
 |filename|description|
 |---|---|
 |countries.csv|A CSV file of different probably-lies information about various countries|

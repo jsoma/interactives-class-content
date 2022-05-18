@@ -21,12 +21,3 @@ As we progress through the semester we'll take a look at each of those. First in
 
 Ask a hundred questions, but know that we'll also dig into them later on.
 
-
-# Step Two: D3 on Observable
-
-https://observablehq.com/@jsoma/countries-csv
-Find a good max/min using the sliders
-Copy it into your document
-Why? Export and look at what you get back.
-
-# Step Three: Command line
