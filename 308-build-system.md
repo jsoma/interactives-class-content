@@ -38,7 +38,7 @@ But what if instead, you could do something like the code below?
 
 Turns out _you can do this_, you just need Svelte and a build system to help you. One of your coworkers builds a template (or _component_) that takes in the name of the ai2html file you'd like to embed, and Svelte magically gives you a new HTML tag that does all the heavy lifting for you.
 
-That's only the tip of the surface, but it's pretty great!
+That's only the tip of the surface, but it's pretty great! I highly highly recommend [the official Svelte tutorial](https://svelte.dev/tutorial/basics), it's fantastic.
 
 ### Layer Cake
 
