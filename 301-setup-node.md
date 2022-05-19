@@ -1,4 +1,4 @@
-# Setting up your command line
+# Installing and setting up node.js on the command line
 
 ## Install nvm
 

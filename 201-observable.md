@@ -33,13 +33,3 @@ Click the `...` button on the top right, then "Fork...". This will create your o
 4. Add another slider that adjusts the radius of the circles.
 5. Add another slider that adjusts the *opacity* of the circles. (Hot tip, you'll need to change another `attr` called `opacity` that may or may not range from zero to one).
 3. Add new sliders for both minimum and maximum GDP, and make them change the x axis in the same way that the age sliders change the y axis.
-
-## Exporting and embedding
-
-When your graphic is set up in a way you like, you'll think **I love this, let's pop it onto my own website!**
-
-## .......
-
-Copy it into your document
-
-Why? Export and look at what you get back.
