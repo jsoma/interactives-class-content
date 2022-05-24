@@ -44,11 +44,11 @@ Interactivity, both with D3 and Svelte.
 
 ## Week 6
 
-**Prep work:** Make an SVG viz with 20k datapoints.
+**Prep work:** Make an SVG viz with 20k+ datapoints.
 
 Canvas
 
-**Homework:** Project. Maybe take a week off and give them two weeks to work on a project?
+**Homework:** Project. Potentially take a week off and have two weeks to work on a project.
 
 ## Week 7
 
