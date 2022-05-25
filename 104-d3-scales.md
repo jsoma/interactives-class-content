@@ -56,3 +56,13 @@ const colorScale = d3.scaleOrdinal().range(['#7FDBFF', '#0074D9', '#01FF70', '#0
 ```
 
 Find a color scheme that you like!
+
+## A few scale examples
+
+|Code|Usage|Example|
+|---|---|---|
+|`d3.scaleLinear()`|Relating a number to position or color|0-10 maps to 0->100 (5 -> 50)|
+|`d3.scalePoint()`|Spacing out points evenly on an axis|[Cat, dog, beetle] maps to 0->100 (cat -> 0, dog -> 50, beetle -> 100)|
+|`d3.scaleBand()`|Spacing out bars evenly on an axis|[Cat, dog, beetle] maps to 0->100 (with 10-pixel bars, cat takes up 0-10, dog 45-55, beetle 90-100)|
+|`d3.scaleOrdinal()`|Relating a category to another category| [Republican, Democrat] maps to [red, blue]|
+|`d3.scaleSqrt()`|Relating a number to radius of a circle (area)|0-10 maps to 0->100 radius|
